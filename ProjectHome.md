@@ -1,0 +1,1 @@
+The goal of the ultimatetoolbox is to create a "programmer's toolbox" in lots of languages that encapsulates the needed but unimplemented base functionality of the language.
